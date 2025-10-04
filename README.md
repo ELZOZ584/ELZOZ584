@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ELZOZ584
-- 👀 I’m interested in frontend devloper
-- 🌱 I’m currently learning NEXT.js
+- 👋 Hi, I’m Zeyad Ali
+- 👀 I’m interested in Data Analysis and programming
+- 🌱 I’m currently learning power BI
 - 💞️ I’m looking to collaborate on the world
-- 📫 How to reach me with email
+- 📫 How to reach me with email : ziadelkhodary9@gmail.com
 - ⚡ Fun fact: l love hard work
 
 <!---
